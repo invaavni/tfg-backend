@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+Keras
+TensorFlow
+sklearn
+pandas
+flask-cors
